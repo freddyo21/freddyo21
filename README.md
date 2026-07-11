@@ -27,7 +27,7 @@ Apprentice Cybersecurity Engineer<br/>
     <tr>
       <td align="center">
         <!-- Thay link ảnh bằng link ảnh danh thiếp Zalo thực tế của bạn -->
-        <img src="images/myzalo.jpg" width="160" alt="Zalo QR B Duy Anh">
+        <img src="./images/myzalo.jpg" width="160" alt="Zalo QR B Duy Anh">
         <br>
         <i>Scan to connect</i>
       </td>
