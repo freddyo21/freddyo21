@@ -83,18 +83,6 @@ Here are all the social media platforms I use 👇:
         </tr>
         <tr>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
-                <br>Bootstrap
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="65" height="65" />
-                <br>TailwindCSS
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="65" height="65" />
-                <br>SASS
-            </td>
-            <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="ReactJS" width="65" height="65" />
                 <br>ReactJS
             </td>
@@ -102,8 +90,6 @@ Here are all the social media platforms I use 👇:
                 <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
                 <br>Angular
             </td>
-        </tr>
-        <tr>
             <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
                 <br>Nodejs
@@ -113,16 +99,8 @@ Here are all the social media platforms I use 👇:
                 <br>Express.js
             </td>
             <td align="center" width="96">
-                <!-- <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
-                <br>Express.js -->
-            </td>
-            <td align="center" width="96">
-                <!-- <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
-                <br>Express.js -->
-            </td>
-            <td align="center" width="96">
-                <!-- <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
-                <br>Express.js -->
+                <!-- <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
+                <br>Bootstrap -->
             </td>
         </tr>
         <tr>
