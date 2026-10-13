@@ -5,7 +5,7 @@ Apprentice Cybersecurity Engineer<br/>
 
 </h3>
 
-<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=freddyo21&style=for-the-badge&abbreviated=true&color=brightgreen" alt="nguyencaonhan271201" /> </p>
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=freddyo21&style=for-the-badge&abbreviated=true&color=brightgreen" alt="freddyo21" /> </p>
 
 - 🎓 I'm currently pursuing a **Bachelor's degree in Cybersecurity** at University of Information Technology - VNUHCM - Main Campus
 - 🌱 I've recently passed the [**CEH Certified Ethical Hacker**](https://www.credly.com/badges/01f0d4e5-73ed-46fd-9b34-fa6ab944b479) exam and is currently learning more in depth about this topic<!-- - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects) -->
@@ -206,12 +206,6 @@ Here are all the social media platforms I use 👇:
                 <img src="https://skillicons.dev/icons?i=rider" width="48" height="48" alt="Rider" />
                 <br>Rider
             </td>
-            <td align="center" width="96">
-                <!-- <img src="https://skillicons.dev/icons?i=rider" width="48" height="48" alt="Rider" />
-                <br>Rider -->
-            </td>
-        </tr>
-        <tr>
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
                 <br>Docker
